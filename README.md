@@ -38,8 +38,7 @@ Users should be able to:
 
 
 ## Author
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Website - https://blog-preview-card-main-kappa.vercel.app/
+- Frontend Mentor - https://www.frontendmentor.io/profile/chisouche
+
 
